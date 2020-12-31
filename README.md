@@ -1,4 +1,4 @@
-# OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction
+# OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction,Check
 Kaggle competition
 
 This repository contains solution code for kaggle competition OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction
